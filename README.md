@@ -21,5 +21,6 @@
 	<a herf="https://solved.ac/profile/cmw0107/", target="_blank"><img src=http://mazassumnida.wtf/api/v2/generate_badge?boj=roadcheers></a>
   </div>
 
+	<h5>🎯1일 1커밋</h5>
 </div>
 
