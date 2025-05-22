@@ -15,11 +15,6 @@
 	<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
   	<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
 	<br>
-
-  <div>
-	<h3>💎BOJ</h3>
-	<a herf="https://solved.ac/profile/cmw0107/", target="_blank"><img src=http://mazassumnida.wtf/api/v2/generate_badge?boj=roadcheers></a>
-  </div>
 </div>
 
  
